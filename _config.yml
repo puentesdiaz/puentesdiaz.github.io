@@ -3,3 +3,5 @@ title: Puentes Diaz
 description: Puentes Diaz
 show_downloads: false
 #google_analytics: [Your Google Analytics tracking ID]
+github:
+  zip_url: http://example.com/download.zip
